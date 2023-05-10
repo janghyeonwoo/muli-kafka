@@ -1,0 +1,5 @@
+rootProject.name = 'muli-kafka'
+include 'consumer1'
+include 'producer1'
+include 'consumer2'
+
